@@ -1,2 +1,2 @@
 # clustering
-:tea: k-means, k-modes, hierarchical clustering, for all kinds of purpose: customer clustering, topic clustering.
+:tea: k-means, k-modes, hierarchical clustering, DBSCAN for all kinds of purpose: customer clustering, topic clustering.
